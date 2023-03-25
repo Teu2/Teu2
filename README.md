@@ -1,5 +1,5 @@
 ## Hello 👋
-I'm Dominic, Fullstack developer from Melbourne Australia. Welcome to my github! feel free to stalk me~  
+I'm Dominic, A developer from Melbourne Australia. Welcome to my github! feel free to stalk me~  
   
 <br/>
   
