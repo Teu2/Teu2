@@ -25,6 +25,6 @@ I'm Dominic, A developer from Melbourne Australia. Welcome to my github! feel fr
 <br/>
 
 ### My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Teu2&repo=Face-Recognition-App)](https://github.com/Teu2/Face-Recognition-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Teu2&repo=Manga-Raw-Main)](https://github.com/Teu2/Manga-Raw-Main)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Teu2&repo=.NET-Tic-Tac-Toe)](https://github.com/Teu2/.NET-Tic-Tac-Toe)
 
