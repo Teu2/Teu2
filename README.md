@@ -21,6 +21,3 @@ I'm Dominic, A developer from Melbourne Australia. Welcome to my github! feel fr
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Teu2&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Teu2's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teu2&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-<br/>
-
